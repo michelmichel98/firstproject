@@ -19,8 +19,8 @@ def local_css(file_name):
 local_css("style/style.css")
 # ----LOAD ASSETS BABY----
 lottie_coding = load_lottieurl("https://lottie.host/18e0a272-7edf-4e31-82df-1f7931866faf/dFqxwEX8Rt.json")
-img_coding_languages = Image.open("C:\\Users\\miche\\Bureaublad\\firstproject\\images\\coding.png")
-img_udemy = Image.open("C:\\Users\\miche\\Bureaublad\\firstproject\\images\\udemy_logo.png")
+img_coding_languages = Image.open("C:/Users/miche/Bureaublad/firstproject/images/coding.png")
+img_udemy = Image.open("C:/Users/miche/Bureaublad//firstproject/images/udemy_logo.png")
 
 
 #----Header section----
