@@ -16,7 +16,7 @@ def local_css(file_name):
     with open(file_name) as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True) 
 
-local_css("style\\style.css")
+local_css("style/style.css")
 # ----LOAD ASSETS BABY----
 lottie_coding = load_lottieurl("https://lottie.host/18e0a272-7edf-4e31-82df-1f7931866faf/dFqxwEX8Rt.json")
 img_coding_languages = Image.open("C:\\Users\\miche\\Bureaublad\\firstproject\\images\\coding.png")
